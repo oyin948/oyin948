@@ -1,16 +1,37 @@
-## Hi there 👋
+Hi, I'm Oyindamola 👋
 
-<!--
-**oyin948/oyin948** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Science student interested in turning data into useful insights through analysis, visualization, and programming.
 
-Here are some ideas to get you started:
+🔧 Skills & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- SQL
+- Power BI
+- Excel
+- Data Analysis
+- Data Visualization
+
+📚 Currently Learning
+
+- Python for Data Science
+- SQL
+- Exploratory Data Analysis (EDA)
+- Git & GitHub
+- Data Visualization
+
+📊 Projects
+
+I'm currently building projects to strengthen my practical skills and develop a portfolio in Data Science and Data Analytics.
+
+More projects coming soon!
+
+🎯 Goals
+
+- Build practical Data Science and Analytics projects
+- Strengthen my Python and SQL skills
+- Develop a strong GitHub portfolio
+- Continue growing as a Data Science professional
+
+📫 Connect With Me
+
+GitHub: "@oyin948" (https://github.com/oyin948)
