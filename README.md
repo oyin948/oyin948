@@ -14,7 +14,6 @@ I'm a Data Science student interested in turning data into useful insights throu
 📚 Currently Learning
 
 - Python for Data Science
-- SQL
 - Exploratory Data Analysis (EDA)
 - Git & GitHub
 - Data Visualization
@@ -23,12 +22,10 @@ I'm a Data Science student interested in turning data into useful insights throu
 
 I'm currently building projects to strengthen my practical skills and develop a portfolio in Data Science and Data Analytics.
 
-More projects coming soon!
-
 🎯 Goals
 
 - Build practical Data Science and Analytics projects
-- Strengthen my Python and SQL skills
+- Strengthen my Python skills
 - Develop a strong GitHub portfolio
 - Continue growing as a Data Science professional
 
