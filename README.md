@@ -5,7 +5,6 @@ I'm a Data Science student interested in turning data into useful insights throu
 🔧 Skills & Tools
 
 - Python
-- SQL
 - Power BI
 - Excel
 - Data Analysis
@@ -32,3 +31,7 @@ I'm currently building projects to strengthen my practical skills and develop a 
 📫 Connect With Me
 
 GitHub: "@oyin948" (https://github.com/oyin948)
+
+📧 Email: [oladejoaisha7@gmail.com]
+
+𝕏 X: [@AishatOyinda](https://x.com/AishatOyinda)
