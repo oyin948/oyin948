@@ -21,6 +21,12 @@ I'm a Data Science student interested in turning data into useful insights throu
 
 I'm currently building projects to strengthen my practical skills and develop a portfolio in Data Science and Data Analytics.
 
+
+### [Retail Sales Analysis](https://github.com/oyin948/Retail-Sales-Analysis)
+Cleaned 9,800 retail orders with Python and built a 3-page interactive Power BI dashboard (DAX, time intelligence).
+
+
+
 🎯 Goals
 
 - Build practical Data Science and Analytics projects
