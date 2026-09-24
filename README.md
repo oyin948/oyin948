@@ -29,6 +29,7 @@ Cleaned 9,800 retail orders with Python and built a 3-page interactive Power BI 
 
 
 **[Insurance Claims Fraud Analysis](https://github.com/oyin948/Insurance-Claims-Fraud-Analysis)**
+
 Analyzed 1,000 auto insurance claims to identify fraud patterns — Excel for cleaning/chi-square testing, Power BI for a 5-page interactive dashboard. 
 
 
